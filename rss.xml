@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Lek]]></title>
+        <description><![CDATA[Michael Lek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:41:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 vragen over het Forum Fiscaal Dienstverleners ]]></title>
+            <description><![CDATA[<article><h1>5 vragen over het Forum Fiscaal Dienstverleners </h1><h2>1 Even opfrissen: wat is het Forum Fiscaal Dienstverleners? </h2><p>Begonnen als een pilot in 2013, is het Forum Fiscaal Dienstverleners inmiddels uitgegroeid tot een community met zo’n 13.000 gebruikers. En houdt een team van 20 mensen het draaiende. Onlangs is het forum vernieuwd. Dus, tijd voor een update. Toine Tates, community manager van het forum en Michael Osage, communicatieadviseur bij ontwerpbureau Osage geven antwoord op 5 vragen. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/106342a2-e6ca-491c-8aee-98c9219edd47.png"></article>]]></description>
+            <link>undefined5-vragen-over-het-forum-fiscaal-dienstverleners/index.html</link>
+            <guid isPermaLink="false">4db0ed0f-d4fc-451b-84b5-272b1d236735</guid>
+            <pubDate>Wed, 03 Aug 2016 13:41:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
