@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Over mij
+    id: 90bb700f-8851-4f30-bb16-91264ee38c05
+    type: content
 favicon: null
 title: Welkom!
 description: Waarmee kan ik je helpen?
