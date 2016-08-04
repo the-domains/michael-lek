@@ -1,19 +1,4 @@
-name: Michael Lek
-favicon: null
-layout_spectrum: 0.734971369151026
 typography_spectrum: 0.7785881150048226
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.24663408985361457
   saturation: 0.9729559011757374
   rhythmicContrast: 0.2872347394004464
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.734971369151026
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Michael Lek
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Michael Lek
 purpose: []
